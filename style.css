@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    background-color: #ff6781;
+    font-weight: bold;
+}
+.btn-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+
+}
